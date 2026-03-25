@@ -31,3 +31,4 @@ Setup cronjob:
 crontab -e
 */5 * * * * /bin/bash /Users/giteshaggarwal/linux-automation-project/monitor.sh
 
+new thing added 
